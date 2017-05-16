@@ -19,6 +19,7 @@ namespace MonkeyHubApp.ViewModel
 {
     public class MainViewModel : BaseViewModel
     {
+        //http://monkey-hub-api.azurewebsites.net/swagger/#!/Content/ApiContentGet
 
         private const string BaseUrl = "https://monkey-hub-api.azurewebsites.net/api/";
 
